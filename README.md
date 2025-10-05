@@ -139,8 +139,6 @@
 # Диаграмма концептуальной модели
 ![Диаграмма концептуальной модели](./docs/conceptual-model.jpg)
 
-![diagram](./docs/conceptual-model.png)
-
 # Диаграмма логической модели
 ![Диаграмма логической модели](./docs/logical-model.jpg)
 
